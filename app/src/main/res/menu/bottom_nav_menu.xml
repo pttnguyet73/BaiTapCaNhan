@@ -1,0 +1,16 @@
+<!-- res/menu/bottom_nav_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_featured"
+        android:icon="@drawable/img4"
+        android:title="Featured" />
+
+    <item
+        android:id="@+id/nav_feed"
+        android:icon="@drawable/ic_feed"
+        android:title="Feed" />
+
+
+
+</menu>
